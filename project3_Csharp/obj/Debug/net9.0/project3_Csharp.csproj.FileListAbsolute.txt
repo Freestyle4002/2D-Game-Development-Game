@@ -1,0 +1,14 @@
+C:\Users\Michael M Chavez\project3_Csharp\project3_Csharp\bin\Debug\net9.0\project3_Csharp.exe
+C:\Users\Michael M Chavez\project3_Csharp\project3_Csharp\bin\Debug\net9.0\project3_Csharp.deps.json
+C:\Users\Michael M Chavez\project3_Csharp\project3_Csharp\bin\Debug\net9.0\project3_Csharp.runtimeconfig.json
+C:\Users\Michael M Chavez\project3_Csharp\project3_Csharp\bin\Debug\net9.0\project3_Csharp.dll
+C:\Users\Michael M Chavez\project3_Csharp\project3_Csharp\bin\Debug\net9.0\project3_Csharp.pdb
+C:\Users\Michael M Chavez\project3_Csharp\project3_Csharp\obj\Debug\net9.0\project3_Csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michael M Chavez\project3_Csharp\project3_Csharp\obj\Debug\net9.0\project3_Csharp.AssemblyInfoInputs.cache
+C:\Users\Michael M Chavez\project3_Csharp\project3_Csharp\obj\Debug\net9.0\project3_Csharp.AssemblyInfo.cs
+C:\Users\Michael M Chavez\project3_Csharp\project3_Csharp\obj\Debug\net9.0\project3_Csharp.csproj.CoreCompileInputs.cache
+C:\Users\Michael M Chavez\project3_Csharp\project3_Csharp\obj\Debug\net9.0\project3_Csharp.dll
+C:\Users\Michael M Chavez\project3_Csharp\project3_Csharp\obj\Debug\net9.0\refint\project3_Csharp.dll
+C:\Users\Michael M Chavez\project3_Csharp\project3_Csharp\obj\Debug\net9.0\project3_Csharp.pdb
+C:\Users\Michael M Chavez\project3_Csharp\project3_Csharp\obj\Debug\net9.0\project3_Csharp.genruntimeconfig.cache
+C:\Users\Michael M Chavez\project3_Csharp\project3_Csharp\obj\Debug\net9.0\ref\project3_Csharp.dll
